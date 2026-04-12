@@ -1,0 +1,24 @@
+# Fetched / generated data (keep local; add exceptions if you want small samples in git)
+data/*
+!data/.gitkeep
+!data/bowman_2025_mlbam_overrides.json
+!data/bowman_2025_checklist_with_ids.csv
+!data/bowman_2025_checklist_with_ids_summary.md
+!data/bowman_2025_checklist_missing_ids.csv
+!data/bowman_2025_checklist_missing_ids_summary.md
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.Python
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# OS / editor
+.DS_Store
+.env
+.env.*

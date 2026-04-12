@@ -1,0 +1,201 @@
+mlbam_id,id_source,id_resolved,card_number,player_name_raw,affiliation_raw,raw_line,is_multi_player
+816113,override,yes,BD-1,"Eli Willits,",Washington Nationals,"BD-1	Eli Willits,	Washington Nationals",False
+815832,override,yes,BD-2,"Xavier Neyens,",Houston Astros,"BD-2	Xavier Neyens,	Houston Astros",False
+807739,cache,yes,BD-3,"Kade Anderson,",Seattle Mariners,"BD-3	Kade Anderson,	Seattle Mariners",False
+805906,override,yes,BD-4,"Gage Wood,",Philadelphia Phillies,"BD-4	Gage Wood,	Philadelphia Phillies",False
+803284,cache,yes,BD-5,"Max Belyeu,",Colorado Rockies,"BD-5	Max Belyeu,	Colorado Rockies",False
+828140,override,yes,BD-6,"Aidan West,",Los Angeles Dodgers,"BD-6	Aidan West,	Los Angeles Dodgers",False
+828685,override,yes,BD-7,"Taitn Gray,",Tampa Bay Rays,"BD-7	Taitn Gray,	Tampa Bay Rays",False
+828098,override,yes,BD-8,"JoJo Parker,",Toronto Blue Jays,"BD-8	JoJo Parker,	Toronto Blue Jays",False
+682987,override,yes,BD-9,"Spencer Jones,",New York Yankees,"BD-9	Spencer Jones,	New York Yankees",False
+815814,override,yes,BD-10,"Billy Carlson,",Chicago White Sox,"BD-10	Billy Carlson,	Chicago White Sox",False
+701527,override,yes,BD-11,"Mike Sirota,",Los Angeles Dodgers,"BD-11	Mike Sirota,	Los Angeles Dodgers",False
+824604,override,yes,BD-12,"Liam Doyle,",St. Louis Cardinals,"BD-12	Liam Doyle,	St. Louis Cardinals",False
+808265,override,yes,BD-13,"Franklin Arias,",Boston Red Sox,"BD-13	Franklin Arias,	Boston Red Sox",False
+702505,override,yes,BD-14,"J.D. Thompson,",Milwaukee Brewers,"BD-14	J.D. Thompson,	Milwaukee Brewers",False
+815818,override,yes,BD-15,"Gavin Fien,",Texas Rangers,"BD-15	Gavin Fien,	Texas Rangers",False
+702610,override,yes,BD-16,"Ike Irish,",Baltimore Orioles,"BD-16	Ike Irish,	Baltimore Orioles",False
+828255,override,yes,BD-17,"Ethan Conrad,",Chicago Cubs,"BD-17	Ethan Conrad,	Chicago Cubs",False
+695731,override,yes,BD-18,"Braden Montgomery,",Chicago White Sox,"BD-18	Braden Montgomery,	Chicago White Sox",False
+691792,override,yes,BD-19,"Roc Riggio,",Colorado Rockies,"BD-19	Roc Riggio,	Colorado Rockies",False
+829162,override,yes,BD-20,"Steele Hall,",Cincinnati Reds,"BD-20	Steele Hall,	Cincinnati Reds",False
+815824,override,yes,BD-21,"Josiah Hartshorn,",Chicago Cubs,"BD-21	Josiah Hartshorn,	Chicago Cubs",False
+702539,override,yes,BD-22,"Zach Root,",Los Angeles Dodgers,"BD-22	Zach Root,	Los Angeles Dodgers",False
+804981,override,yes,BD-23,"Riley Quick,",Minnesota Twins,"BD-23	Riley Quick,	Minnesota Twins",False
+815915,override,yes,BD-24,"Joswa Lugo,",Los Angeles Angels,"BD-24	Joswa Lugo,	Los Angeles Angels",False
+815825,override,yes,BD-25,"Seth Hernandez,",Pittsburgh Pirates,"BD-25	Seth Hernandez,	Pittsburgh Pirates",False
+806258,override,yes,BD-26,"Thomas White,",Miami Marlins,"BD-26	Thomas White,	Miami Marlins",False
+830336,override,yes,BD-27,"Mason Peters,",Seattle Mariners,"BD-27	Mason Peters,	Seattle Mariners",False
+702504,override,yes,BD-28,"Gavin Turley,",Athletics,"BD-28	Gavin Turley,	Athletics",False
+804817,override,yes,BD-29,"Kyson Witherspoon,",Boston Red Sox,"BD-29	Kyson Witherspoon,	Boston Red Sox",False
+701364,override,yes,BD-30,"Jamie Arnold,",Athletics,"BD-30	Jamie Arnold,	Athletics",False
+815902,override,yes,BD-31,"Yandel Ricardo,",Kansas City Royals,"BD-31	Yandel Ricardo,	Kansas City Royals",False
+815653,override,yes,BD-32,"Tyson Lewis,",Cincinnati Reds,"BD-32	Tyson Lewis,	Cincinnati Reds",False
+807276,override,yes,BD-33,"Dante Nori,",Philadelphia Phillies,"BD-33	Dante Nori,	Philadelphia Phillies",False
+829035,override,yes,BD-34,"Andrew Salas,",Miami Marlins,"BD-34	Andrew Salas,	Miami Marlins",False
+805796,override,yes,BD-35,"Arjun Nimmala,",Toronto Blue Jays,"BD-35	Arjun Nimmala,	Toronto Blue Jays",False
+694371,override,yes,BD-36,"Tommy Troy,",Arizona Diamondbacks,"BD-36	Tommy Troy,	Arizona Diamondbacks",False
+803285,override,yes,BD-37,"Tyler Bremner,",Los Angeles Angels,"BD-37	Tyler Bremner,	Los Angeles Angels",False
+805422,override,yes,BD-38,"Nate Snead,",Los Angeles Angels,"BD-38	Nate Snead,	Los Angeles Angels",False
+806953,override,yes,BD-39,"Eduardo Tait,",Minnesota Twins,"BD-39	Eduardo Tait,	Minnesota Twins",False
+702264,override,yes,BD-40,"Gavin Kilen,",San Francisco Giants,"BD-40	Gavin Kilen,	San Francisco Giants",False
+814439,override,yes,BD-41,"Ryan Waldschmidt,",Arizona Diamondbacks,"BD-41	Ryan Waldschmidt,	Arizona Diamondbacks",False
+804756,override,yes,BD-42,"Jacob Morrison,",Milwaukee Brewers,"BD-42	Jacob Morrison,	Milwaukee Brewers",False
+806146,override,yes,BD-43,"George Lombard Jr.,",New York Yankees,"BD-43	George Lombard Jr.,	New York Yankees",False
+816102,override,yes,BD-44,"Landon Harmon,",Washington Nationals,"BD-44	Landon Harmon,	Washington Nationals",False
+801075,override,yes,BD-45,"Walker Janek,",Houston Astros,"BD-45	Walker Janek,	Houston Astros",False
+701906,override,yes,BD-46,"Trevor Cohen,",San Francisco Giants,"BD-46	Trevor Cohen,	San Francisco Giants",False
+829649,override,yes,BD-47,"Colin Yeaman,",Baltimore Orioles,"BD-47	Colin Yeaman,	Baltimore Orioles",False
+703601,override,yes,BD-48,"Max Clark,",Detroit Tigers,"BD-48	Max Clark,	Detroit Tigers",False
+683953,override,yes,BD-49,"Travis Bazzana,",Cleveland Guardians,"BD-49	Travis Bazzana,	Cleveland Guardians",False
+702695,override,yes,BD-50,"Easton Carmichael,",Pittsburgh Pirates,"BD-50	Easton Carmichael,	Pittsburgh Pirates",False
+805706,override,yes,BD-51,"AJ Russell,",Texas Rangers,"BD-51	AJ Russell,	Texas Rangers",False
+695560,override,yes,BD-52,"Pico Kohn,",New York Yankees,"BD-52	Pico Kohn,	New York Yankees",False
+805255,override,yes,BD-53,"Dominick Reid,",Chicago Cubs,"BD-53	Dominick Reid,	Chicago Cubs",False
+815071,override,yes,BD-54,"Marcus Phillips,",Boston Red Sox,"BD-54	Marcus Phillips,	Boston Red Sox",False
+815929,override,yes,BD-55,"Jhonny Level,",San Francisco Giants,"BD-55	Jhonny Level,	San Francisco Giants",False
+682607,override,yes,BD-56,"Antonio Jimenez,",New York Mets,"BD-56	Antonio Jimenez,	New York Mets",False
+834681,override,yes,BD-57,"Matthew Miura,",St. Louis Cardinals,"BD-57	Matthew Miura,	St. Louis Cardinals",False
+829210,override,yes,BD-58,"Ty Harvey,",San Diego Padres,"BD-58	Ty Harvey,	San Diego Padres",False
+805808,override,yes,BD-59,"Kevin McGonigle,",Detroit Tigers,"BD-59	Kevin McGonigle,	Detroit Tigers",False
+800522,override,yes,BD-60,"Josue Briceño,",Detroit Tigers,"BD-60	Josue Briceño,	Detroit Tigers",False
+815380,override,yes,BD-61,"Luke Dickerson,",Washington Nationals,"BD-61	Luke Dickerson,	Washington Nationals",False
+703610,override,yes,BD-62,"Justin Lamkin,",Kansas City Royals,"BD-62	Justin Lamkin,	Kansas City Royals",False
+805207,override,yes,BD-63,"Caden Bodine,",Baltimore Orioles,"BD-63	Caden Bodine,	Baltimore Orioles",False
+703680,override,yes,BD-64,"Brandon Compton,",Miami Marlins,"BD-64	Brandon Compton,	Miami Marlins",False
+809763,override,yes,BD-65,"Kaeden Kent,",New York Yankees,"BD-65	Kaeden Kent,	New York Yankees",False
+702568,override,yes,BD-66,"Mason Morris,",Cincinnati Reds,"BD-66	Mason Morris,	Cincinnati Reds",False
+703676,override,yes,BD-67,"Ethan Frey,",Houston Astros,"BD-67	Ethan Frey,	Houston Astros",False
+703637,override,yes,BD-68,"Max Williams,",Miami Marlins,"BD-68	Max Williams,	Miami Marlins",False
+702668,override,yes,BD-69,"Korbyn Dickerson,",Seattle Mariners,"BD-69	Korbyn Dickerson,	Seattle Mariners",False
+816111,override,yes,BD-70,"Tate Southisene,",Atlanta Braves,"BD-70	Tate Southisene,	Atlanta Braves",False
+702491,override,yes,BD-71,"Mitch Voit,",New York Mets,"BD-71	Mitch Voit,	New York Mets",False
+823787,override,yes,BD-72,"Rainiel Rodriguez,",St. Louis Cardinals,"BD-72	Rainiel Rodriguez,	St. Louis Cardinals",False
+815992,override,yes,BD-73,"Tim Piasentin,",Toronto Blue Jays,"BD-73	Tim Piasentin,	Toronto Blue Jays",False
+696486,override,yes,BD-74,"James Tibbs III,",Los Angeles Dodgers,"BD-74	James Tibbs III,	Los Angeles Dodgers",False
+800473,override,yes,BD-75,"Jefferson Rojas,",Chicago Cubs,"BD-75	Jefferson Rojas,	Chicago Cubs",False
+823745,override,yes,BD-76,"Michael Salina,",San Diego Padres,"BD-76	Michael Salina,	San Diego Padres",False
+815829,override,yes,BD-77,"Ryan Mitchell,",St. Louis Cardinals,"BD-77	Ryan Mitchell,	St. Louis Cardinals",False
+822477,override,yes,BD-78,"JB Middleton,",Colorado Rockies,"BD-78	JB Middleton,	Colorado Rockies",False
+804465,override,yes,BD-79,"Riley Kelly,",Colorado Rockies,"BD-79	Riley Kelly,	Colorado Rockies",False
+805261,override,yes,BD-80,"Cade Obermueller,",Philadelphia Phillies,"BD-80	Cade Obermueller,	Philadelphia Phillies",False
+828987,override,yes,BD-81,"Briggs McKenzie,",Atlanta Braves,"BD-81	Briggs McKenzie,	Atlanta Braves",False
+834237,override,yes,BD-82,"Joshua Flores,",Milwaukee Brewers,"BD-82	Joshua Flores,	Milwaukee Brewers",False
+805031,override,yes,BD-83,"Gabe Davis,",Chicago White Sox,"BD-83	Gabe Davis,	Chicago White Sox",False
+815617,override,yes,BD-84,"Kayson Cunningham,",Arizona Diamondbacks,"BD-84	Kayson Cunningham,	Arizona Diamondbacks",False
+802411,override,yes,BD-85,"JT Quinn,",Baltimore Orioles,"BD-85	JT Quinn,	Baltimore Orioles",False
+823073,override,yes,BD-86,"Nolan Sailors,",Kansas City Royals,"BD-86	Nolan Sailors,	Kansas City Royals",False
+815888,override,yes,BD-87,"Leo De Vries,",Athletics,"BD-87	Leo De Vries,	Athletics",False
+695720,override,yes,BD-88,"Tommy White,",Athletics,"BD-88	Tommy White,	Athletics",False
+804467,override,yes,BD-89,"Patrick Forbes,",Arizona Diamondbacks,"BD-89	Patrick Forbes,	Arizona Diamondbacks",False
+815119,override,yes,BD-90,"Tanner Franklin,",St. Louis Cardinals,"BD-90	Tanner Franklin,	St. Louis Cardinals",False
+811764,override,yes,BD-91,"Cody Miller,",Atlanta Braves,"BD-91	Cody Miller,	Atlanta Braves",False
+815839,override,yes,BD-92,"Quentin Young,",Minnesota Twins,"BD-92	Quentin Young,	Minnesota Twins",False
+821933,override,yes,BD-93,"Landon Hodge,",Chicago White Sox,"BD-93	Landon Hodge,	Chicago White Sox",False
+815549,override,yes,BD-94,"Ryan Sloan,",Seattle Mariners,"BD-94	Ryan Sloan,	Seattle Mariners",False
+824026,override,yes,BD-95,"Kash Mayfield,",San Diego Padres,"BD-95	Kash Mayfield,	San Diego Padres",False
+804560,override,yes,BD-96,"Charles Davalan,",Los Angeles Dodgers,"BD-96	Charles Davalan,	Los Angeles Dodgers",False
+834404,override,yes,BD-97,"Jake Cook,",Toronto Blue Jays,"BD-97	Jake Cook,	Toronto Blue Jays",False
+800169,override,yes,BD-98,"Aroon Escobar,",Philadelphia Phillies,"BD-98	Aroon Escobar,	Philadelphia Phillies",False
+809686,override,yes,BD-99,"Cameron Maldonado,",San Francisco Giants,"BD-99	Cameron Maldonado,	San Francisco Giants",False
+829306,override,yes,BD-100,"Nick Becker,",Seattle Mariners,"BD-100	Nick Becker,	Seattle Mariners",False
+702976,override,yes,BD-101,"Griffin Hugus,",Seattle Mariners,"BD-101	Griffin Hugus,	Seattle Mariners",False
+804606,override,yes,BD-102,"Konnor Griffin,",Pittsburgh Pirates,"BD-102	Konnor Griffin,	Pittsburgh Pirates",False
+806958,override,yes,BD-103,"Felnin Celesten,",Seattle Mariners,"BD-103	Felnin Celesten,	Seattle Mariners",False
+823781,override,yes,BD-104,"Sean Youngerman,",Philadelphia Phillies,"BD-104	Sean Youngerman,	Philadelphia Phillies",False
+821270,override,yes,BD-105,"Luis Peña,",Milwaukee Brewers,"BD-105	Luis Peña,	Milwaukee Brewers",False
+832455,override,yes,BD-106,"Matthew Fisher,",Philadelphia Phillies,"BD-106	Matthew Fisher,	Philadelphia Phillies",False
+815931,override,yes,BD-107,"Yolfran Castillo,",Texas Rangers,"BD-107	Yolfran Castillo,	Texas Rangers",False
+809092,override,yes,BD-108,"Murf Gray,",Pittsburgh Pirates,"BD-108	Murf Gray,	Pittsburgh Pirates",False
+702563,override,yes,BD-109,"Mason Neville,",Cincinnati Reds,"BD-109	Mason Neville,	Cincinnati Reds",False
+699013,override,yes,BD-110,"Esmerlyn Valdez,",Pittsburgh Pirates,"BD-110	Esmerlyn Valdez,	Pittsburgh Pirates",False
+808234,override,yes,BD-111,"Eduardo Quintero,",Los Angeles Dodgers,"BD-111	Eduardo Quintero,	Los Angeles Dodgers",False
+828116,override,yes,BD-112,"Gustavo Melendez,",Pittsburgh Pirates,"BD-112	Gustavo Melendez,	Pittsburgh Pirates",False
+825582,override,yes,BD-113,"Nate George,",Baltimore Orioles,"BD-113	Nate George,	Baltimore Orioles",False
+815830,override,yes,BD-114,"Dean Moss,",Tampa Bay Rays,"BD-114	Dean Moss,	Tampa Bay Rays",False
+829033,override,yes,BD-115,"Elian Peña,",New York Mets,"BD-115	Elian Peña,	New York Mets",False
+809254,override,yes,BD-116,"Anthony Eyanson,",Boston Red Sox,"BD-116	Anthony Eyanson,	Boston Red Sox",False
+822415,override,yes,BD-117,"Mason McConnaughey,",Texas Rangers,"BD-117	Mason McConnaughey,	Texas Rangers",False
+813533,override,yes,BD-118,"Michael Lombardi,",Kansas City Royals,"BD-118	Michael Lombardi,	Kansas City Royals",False
+831384,override,yes,BD-119,"Josh Owens,",Texas Rangers,"BD-119	Josh Owens,	Texas Rangers",False
+701785,override,yes,BD-120,"Kaelen Culpepper,",Minnesota Twins,"BD-120	Kaelen Culpepper,	Minnesota Twins",False
+815394,override,yes,BD-121,"Theo Gillen,",Tampa Bay Rays,"BD-121	Theo Gillen,	Tampa Bay Rays",False
+807284,override,yes,BD-122,"Cam Caminiti,",Atlanta Braves,"BD-122	Cam Caminiti,	Atlanta Braves",False
+834241,override,yes,BD-123,"Luke Lacourse,",Los Angeles Angels,"BD-123	Luke Lacourse,	Los Angeles Angels",False
+828148,override,yes,BD-124,"Conor Essenburg,",Atlanta Braves,"BD-124	Conor Essenburg,	Atlanta Braves",False
+811965,override,yes,BD-125,"Joshua Kuroda-Grauer,",Athletics,"BD-125	Joshua Kuroda-Grauer,	Athletics",False
+702631,override,yes,BD-126,"Adonys Guzman,",Pittsburgh Pirates,"BD-126	Adonys Guzman,	Pittsburgh Pirates",False
+702257,override,yes,BD-127,"Christian Foutch,",Boston Red Sox,"BD-127	Christian Foutch,	Boston Red Sox",False
+827719,override,yes,BD-128,"Jake Munroe,",Los Angeles Angels,"BD-128	Jake Munroe,	Los Angeles Angels",False
+806053,override,yes,BD-129,"Dean Curley,",Cleveland Guardians,"BD-129	Dean Curley,	Cleveland Guardians",False
+806174,override,yes,BD-130,"Cameron Nelson,",Colorado Rockies,"BD-130	Cameron Nelson,	Colorado Rockies",False
+832453,override,yes,BD-131,"Kaleb Wing,",Chicago Cubs,"BD-131	Kaleb Wing,	Chicago Cubs",False
+801739,override,yes,BD-132,"Carlos Lagrange,",New York Yankees,"BD-132	Carlos Lagrange,	New York Yankees",False
+806957,override,yes,BD-133,"Alfredo Duno,",Cincinnati Reds,"BD-133	Alfredo Duno,	Cincinnati Reds",False
+830239,override,yes,BD-134,"Aaron Walton,",Cleveland Guardians,"BD-134	Aaron Walton,	Cleveland Guardians",False
+805127,override,yes,BD-135,"Devin Taylor,",Athletics,"BD-135	Devin Taylor,	Athletics",False
+809707,override,yes,BD-136,"Charlie Condon,",Colorado Rockies,"BD-136	Charlie Condon,	Colorado Rockies",False
+805809,override,yes,BD-137,"Travis Sykora,",Washington Nationals,"BD-137	Travis Sykora,	Washington Nationals",False
+701807,override,yes,BD-138,"Carson Benge,",New York Mets,"BD-138	Carson Benge,	New York Mets",False
+702607,override,yes,BD-139,"Dakota Jordan,",San Francisco Giants,"BD-139	Dakota Jordan,	San Francisco Giants",False
+805790,override,yes,BD-140,"Cody Bowker,",Philadelphia Phillies,"BD-140	Cody Bowker,	Philadelphia Phillies",False
+800624,override,yes,BD-141,"Ben Jacobs,",Detroit Tigers,"BD-141	Ben Jacobs,	Detroit Tigers",False
+702274,override,yes,BD-142,"Chase Shores,",Los Angeles Angels,"BD-142	Chase Shores,	Los Angeles Angels",False
+701679,override,yes,BD-143,"Brody Brecht,",Colorado Rockies,"BD-143	Brody Brecht,	Colorado Rockies",False
+827517,override,yes,BD-144,"Kyle Lodise,",Chicago White Sox,"BD-144	Kyle Lodise,	Chicago White Sox",False
+802139,override,yes,BD-145,"JJ Wetherholt,",St. Louis Cardinals,"BD-145	JJ Wetherholt,	St. Louis Cardinals",False
+828076,override,yes,BD-146,"Dax Kilby,",New York Yankees,"BD-146	Dax Kilby,	New York Yankees",False
+703606,override,yes,BD-147,"Jared Thomas,",Colorado Rockies,"BD-147	Jared Thomas,	Colorado Rockies",False
+805260,override,yes,BD-148,"Ethan Hedges,",Colorado Rockies,"BD-148	Ethan Hedges,	Colorado Rockies",False
+834243,override,yes,BD-149,"Sean Episcope,",Milwaukee Brewers,"BD-149	Sean Episcope,	Milwaukee Brewers",False
+813668,override,yes,BD-150,"Jack Gurevitch,",St. Louis Cardinals,"BD-150	Jack Gurevitch,	St. Louis Cardinals",False
+701337,override,yes,BD-151,"Ethan Petry,",Washington Nationals,"BD-151	Ethan Petry,	Washington Nationals",False
+815154,override,yes,BD-152,"Slade Caldwell,",Arizona Diamondbacks,"BD-152	Slade Caldwell,	Arizona Diamondbacks",False
+828989,override,yes,BD-153,"Johnny Slawinski,",Los Angeles Angels,"BD-153	Johnny Slawinski,	Los Angeles Angels",False
+832699,override,yes,BD-154,"Matt Barr,",Minnesota Twins,"BD-154	Matt Barr,	Minnesota Twins",False
+701480,override,yes,BD-155,"Bryce Cunningham,",New York Yankees,"BD-155	Bryce Cunningham,	New York Yankees",False
+834672,override,yes,BD-156,"Michael Oliveto,",Detroit Tigers,"BD-156	Michael Oliveto,	Detroit Tigers",False
+806198,override,yes,BD-157,"Cooper Pratt,",Milwaukee Brewers,"BD-157	Cooper Pratt,	Milwaukee Brewers",False
+811716,override,yes,BD-158,"Landyn Vidourek,",Los Angeles Dodgers,"BD-158	Landyn Vidourek,	Los Angeles Dodgers",False
+805805,override,yes,BD-159,"Walker Jenkins,",Minnesota Twins,"BD-159	Walker Jenkins,	Minnesota Twins",False
+805810,override,yes,BD-160,"Blake Mitchell,",Kansas City Royals,"BD-160	Blake Mitchell,	Kansas City Royals",False
+807267,override,yes,BD-161,"JD Dix,",Arizona Diamondbacks,"BD-161	JD Dix,	Arizona Diamondbacks",False
+803723,override,yes,BD-162,"Jordan Yost,",Detroit Tigers,"BD-162	Jordan Yost,	Detroit Tigers",False
+806071,override,yes,BD-163,"Jonny Farmelo,",Seattle Mariners,"BD-163	Jonny Farmelo,	Seattle Mariners",False
+806067,override,yes,BD-164,"James Ellwanger,",Minnesota Twins,"BD-164	James Ellwanger,	Minnesota Twins",False
+828667,override,yes,BD-165,"Ching-Hsien Ko,",Los Angeles Dodgers,"BD-165	Ching-Hsien Ko,	Los Angeles Dodgers",False
+828237,override,yes,BD-166,"Cooper Flemming,",Tampa Bay Rays,"BD-166	Cooper Flemming,	Tampa Bay Rays",False
+696146,override,yes,BD-167,"Hagen Smith,",Chicago White Sox,"BD-167	Hagen Smith,	Chicago White Sox",False
+699073,override,yes,BD-168,"Thayron Liranzo,",Detroit Tigers,"BD-168	Thayron Liranzo,	Detroit Tigers",False
+806964,override,yes,BD-169,"Sebastian Walcott,",Texas Rangers,"BD-169	Sebastian Walcott,	Texas Rangers",False
+826536,override,yes,BD-170,"Brian Curley,",Arizona Diamondbacks,"BD-170	Brian Curley,	Arizona Diamondbacks",False
+685300,override,yes,BD-171,"Grant Richardson,",Athletics,"BD-171	Grant Richardson,	Athletics",False
+802412,override,yes,BD-172,"Malachi Witherspoon,",Detroit Tigers,"BD-172	Malachi Witherspoon,	Detroit Tigers",False
+694393,override,yes,BD-173,"Jaxon Wiggins,",Chicago Cubs,"BD-173	Jaxon Wiggins,	Chicago Cubs",False
+829679,override,yes,BD-174,"Shotaro Morii,",Athletics,"BD-174	Shotaro Morii,	Athletics",False
+828344,override,yes,BD-175,"Dean Livingston,",Arizona Diamondbacks,"BD-175	Dean Livingston,	Arizona Diamondbacks",False
+832698,override,yes,BD-176,"Cameron Millar,",Kansas City Royals,"BD-176	Cameron Millar,	Kansas City Royals",False
+691002,override,yes,BD-177,"Yohandy Morales,",Washington Nationals,"BD-177	Yohandy Morales,	Washington Nationals",False
+815819,override,yes,BD-178,"Sean Gamble,",Kansas City Royals,"BD-178	Sean Gamble,	Kansas City Royals",False
+828097,override,yes,BD-179,"Peter Kussow,",New York Mets,"BD-179	Peter Kussow,	New York Mets",False
+805795,override,yes,BD-180,"Aidan Miller,",Philadelphia Phillies,"BD-180	Aidan Miller,	Philadelphia Phillies",False
+828137,override,yes,BD-181,"Miguel Sime Jr.,",Washington Nationals,"BD-181	Miguel Sime Jr.,	Washington Nationals",False
+829034,override,yes,BD-182,"Josuar Gonzalez,",San Francisco Giants,"BD-182	Josuar Gonzalez,	San Francisco Giants",False
+827265,override,yes,BD-183,"Cade Crossland,",St. Louis Cardinals,"BD-183	Cade Crossland,	St. Louis Cardinals",False
+815352,override,yes,BD-184,"Caleb Bonemer,",Chicago White Sox,"BD-184	Caleb Bonemer,	Chicago White Sox",False
+815843,override,yes,BD-185,"Josh Hammond,",Kansas City Royals,"BD-185	Josh Hammond,	Kansas City Royals",False
+804530,override,yes,BD-186,"Joseph Dzierwa,",Baltimore Orioles,"BD-186	Joseph Dzierwa,	Baltimore Orioles",False
+806230,override,yes,BD-187,"Sammy Stafura,",Pittsburgh Pirates,"BD-187	Sammy Stafura,	Pittsburgh Pirates",False
+702544,override,yes,BD-188,"Jacob Reimer,",New York Mets,"BD-188	Jacob Reimer,	New York Mets",False
+804571,override,yes,BD-189,"Dominic Fritton,",Tampa Bay Rays,"BD-189	Dominic Fritton,	Tampa Bay Rays",False
+834240,override,yes,BD-190,"Ryan Wideman,",San Diego Padres,"BD-190	Ryan Wideman,	San Diego Padres",False
+702270,override,yes,BD-191,"Malcolm Moore,",Texas Rangers,"BD-191	Malcolm Moore,	Texas Rangers",False
+702278,override,yes,BD-192,"Nolan Schubart,",Cleveland Guardians,"BD-192	Nolan Schubart,	Cleveland Guardians",False
+826209,override,yes,BD-193,"Aaron Watson,",Cincinnati Reds,"BD-193	Aaron Watson,	Cincinnati Reds",False
+815816,override,yes,BD-194,"Brady Ebel,",Milwaukee Brewers,"BD-194	Brady Ebel,	Milwaukee Brewers",False
+834393,override,yes,BD-195,"Caleb Leys,",Detroit Tigers,"BD-195	Caleb Leys,	Detroit Tigers",False
+815908,override,yes,BD-196,"Jesús Made,",Milwaukee Brewers,"BD-196	Jesús Made,	Milwaukee Brewers",False
+832457,override,yes,BD-197,"CJ Gray,",Los Angeles Angels,"BD-197	CJ Gray,	Los Angeles Angels",False
+690961,override,yes,BD-198,"Enrique Bradfield Jr.,",Baltimore Orioles,"BD-198	Enrique Bradfield Jr.,	Baltimore Orioles",False
+702275,override,yes,BD-199,"JR Ritchie,",Atlanta Braves,"BD-199	JR Ritchie,	Atlanta Braves",False
+823807,override,yes,BD-200,"Kane Kepley,",Chicago Cubs,"BD-200	Kane Kepley,	Chicago Cubs",False

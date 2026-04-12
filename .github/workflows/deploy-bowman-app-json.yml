@@ -1,0 +1,62 @@
+# Deploy meta.json, hitters.json, pitchers.json to gh-pages (overwrite each run).
+# Secret CHECKLIST_REPO = "org/cardlotlister-oauth" (or edit checkout below).
+# Private checklist repo: add a PAT with repo read as secrets.CHECKLIST_PAT and pass
+# `token: ${{ secrets.CHECKLIST_PAT }}` to the second checkout step.
+
+name: Deploy Bowman app JSON
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 6 * * *"
+
+concurrency:
+  group: bowman-app-json
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout mlb-milb-stats
+        uses: actions/checkout@v4
+
+      - name: Checkout checklist repo
+        uses: actions/checkout@v4
+        with:
+          repository: ${{ secrets.CHECKLIST_REPO }}
+          path: cardlotlister-oauth
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Export JSON
+        env:
+          PYTHONPATH: scripts
+          STATS_SEASON: ${{ vars.STATS_SEASON }}
+        run: |
+          set -e
+          if [ -f "${GITHUB_WORKSPACE}/cardlotlister-oauth/data/checklists/normalized/2025_Bowman_Draft_Normalized.csv" ]; then
+            CHECKLIST="${GITHUB_WORKSPACE}/cardlotlister-oauth/data/checklists/normalized/2025_Bowman_Draft_Normalized.csv"
+          else
+            echo "Set secret CHECKLIST_REPO to org/repo with the normalized checklist, or add a second checkout."
+            exit 1
+          fi
+          python3 scripts/bowman_export_app_json.py \
+            --checklist "$CHECKLIST" \
+            --season "${STATS_SEASON:-2026}" \
+            --no-search --draft-year 0 \
+            --compact \
+            --out-dir deploy
+
+      - name: Deploy to gh-pages
+        uses: peaceiris/actions-gh-pages@v4
+        if: github.ref == format('refs/heads/{0}', github.event.repository.default_branch)
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./deploy
+          force_orphan: true
