@@ -1,0 +1,860 @@
+{
+  "_version": 1,
+  "players": {
+    "Aaron Walton": {
+      "id": 830239,
+      "note": "n_candidates=1",
+      "source": "search"
+    },
+    "Aaron Watson": {
+      "id": 826209,
+      "note": "matched Stats API draft feed (name + team)",
+      "source": "draft"
+    },
+    "Adonys Guzman": {
+      "id": 702631,
+      "note": "matched Stats API draft feed (name + team)",
+      "source": "draft"
+    },
+    "Aidan Miller": {
+      "id": 805795,
+      "note": "n_candidates=1",
+      "source": "search"
+    },
+    "Alfredo Duno": {
+      "id": 806957,
+      "note": "n_candidates=1",
+      "source": "search"
+    },
+    "Andrew Salas": {
+      "id": 829035,
+      "note": "n_candidates=1",
+      "source": "search"
+    },
+    "Anthony Eyanson": {
+      "id": 809254,
+      "note": "matched Stats API draft feed (name + team)",
+      "source": "draft"
+    },
+    "Antonio Jimenez": {
+      "id": 682607,
+      "note": "n_candidates=2",
+      "source": "search"
+    },
+    "Arjun Nimmala": {
+      "id": 805796,
+      "note": "n_candidates=1",
+      "source": "search"
+    },
+    "Aroon Escobar": {
+      "id": 800169,
+      "note": "n_candidates=1",
+      "source": "search"
+    },
+    "Ben Jacobs": {
+      "id": 800624,
+      "note": "matched Stats API draft feed (name + team)",
+      "source": "draft"
+    },
+    "Blake Mitchell": {
+      "id": 805810,
+      "note": "n_candidates=1",
+      "source": "search"
+    },
+    "Braden Montgomery": {
+      "id": 695731,
+      "note": "n_candidates=1",
+      "source": "search"
+    },
+    "Brady Ebel": {
+      "id": 815816,
+      "note": "n_candidates=1",
+      "source": "search"
+    },
+    "Brandon Compton": {
+      "id": 703680,
+      "note": "matched Stats API draft feed (name + team)",
+      "source": "draft"
+    },
+    "Brian Curley": {
+      "id": 826536,
+      "note": "matched Stats API draft feed (name + team)",
+      "source": "draft"
+    },
+    "Briggs McKenzie": {
+      "id": 828987,
+      "note": "matched Stats API draft feed (name + team)",
+      "source": "draft"
+    },
+    "CJ Gray": {
+      "id": 832457,
+      "note": "matched Stats API draft feed (name + team)",
+      "source": "draft"
+    },
+    "Cade Crossland": {
+      "id": 827265,
+      "note": "matched Stats API draft feed (name + team)",
+      "source": "draft"
+    },
+    "Cade Obermueller": {
+      "id": 805261,
+      "note": "matched Stats API draft feed (name + team)",
+      "source": "draft"
+    },
+    "Caden Bodine": {
+      "id": 805207,
+      "note": "n_candidates=1",
+      "source": "search"
+    },
+    "Caleb Bonemer": {
+      "id": 815352,
+      "note": "n_candidates=1",
+      "source": "search"
+    },
+    "Caleb Leys": {
+      "id": 834393,
+      "note": "matched Stats API draft feed (name + team)",
+      "source": "draft"
+    },
+    "Cameron Millar": {
+      "id": 832698,
+      "note": "matched Stats API draft feed (name + team)",
+      "source": "draft"
+    },
+    "Cameron Nelson": {
+      "id": 806174,
+      "note": "matched Stats API draft feed (name + team)",
+      "source": "draft"
+    },
+    "Carlos Lagrange": {
+      "id": 801739,
+      "note": "n_candidates=1",
+      "source": "search"
+    },
+    "Carson Benge": {
+      "id": 701807,
+      "note": "n_candidates=1",
+      "source": "search"
+    },
+    "Carson Williams": {
+      "id": 700246,
+      "note": "n_candidates=1",
+      "source": "search"
+    },
+    "Charles Davalan": {
+      "id": 804560,
+      "note": "n_candidates=1",
+      "source": "search"
+    },
+    "Charlie Condon": {
+      "id": 809707,
+      "note": "n_candidates=1",
+      "source": "search"
+    },
+    "Chase Shores": {
+      "id": 702274,
+      "note": "n_candidates=1",
+      "source": "search"
+    },
+    "Christian Foutch": {
+      "id": 702257,
+      "note": "matched Stats API draft feed (name + team)",
+      "source": "draft"
+    },
+    "Cody Bowker": {
+      "id": 805790,
+      "note": "matched Stats API draft feed (name + team)",
+      "source": "draft"
+    },
+    "Cody Miller": {
+      "id": 811764,
+      "note": "n_candidates=1",
+      "source": "search"
+    },
+    "Colin Yeaman": {
+      "id": 829649,
+      "note": "n_candidates=1",
+      "source": "search"
+    },
+    "Conor Essenburg": {
+      "id": 828148,
+      "note": "matched Stats API draft feed (name + team)",
+      "source": "draft"
+    },
+    "Cooper Flemming": {
+      "id": 828237,
+      "note": "n_candidates=1",
+      "source": "search"
+    },
+    "Cooper Pratt": {
+      "id": 806198,
+      "note": "n_candidates=1",
+      "source": "search"
+    },
+    "Dakota Jordan": {
+      "id": 702607,
+      "note": "n_candidates=1",
+      "source": "search"
+    },
+    "Dante Nori": {
+      "id": 807276,
+      "note": "n_candidates=1",
+      "source": "search"
+    },
+    "Dax Kilby": {
+      "id": 828076,
+      "note": "matched Stats API draft feed (name + team)",
+      "source": "draft"
+    },
+    "Dean Curley": {
+      "id": 806053,
+      "note": "n_candidates=1",
+      "source": "search"
+    },
+    "Dean Livingston": {
+      "id": 828344,
+      "note": "matched Stats API draft feed (name + team)",
+      "source": "draft"
+    },
+    "Dean Moss": {
+      "id": 815830,
+      "note": "matched Stats API draft feed (name + team)",
+      "source": "draft"
+    },
+    "Devin Taylor": {
+      "id": 805127,
+      "note": "n_candidates=1",
+      "source": "search"
+    },
+    "Dominic Fritton": {
+      "id": 804571,
+      "note": "matched Stats API draft feed (name + team)",
+      "source": "draft"
+    },
+    "Easton Carmichael": {
+      "id": 702695,
+      "note": "n_candidates=1",
+      "source": "search"
+    },
+    "Eduardo Quintero": {
+      "id": 808234,
+      "note": "n_candidates=1",
+      "source": "search"
+    },
+    "Eduardo Tait": {
+      "id": 806953,
+      "note": "n_candidates=1",
+      "source": "search"
+    },
+    "Enrique Bradfield Jr.": {
+      "id": 690961,
+      "note": "n_candidates=1",
+      "source": "search"
+    },
+    "Esmerlyn Valdez": {
+      "id": 699013,
+      "note": "n_candidates=1",
+      "source": "search"
+    },
+    "Ethan Frey": {
+      "id": 703676,
+      "note": "n_candidates=1",
+      "source": "search"
+    },
+    "Ethan Hedges": {
+      "id": 805260,
+      "note": "n_candidates=1",
+      "source": "search"
+    },
+    "Ethan Petry": {
+      "id": 701337,
+      "note": "n_candidates=1",
+      "source": "search"
+    },
+    "Felnin Celesten": {
+      "id": 806958,
+      "note": "n_candidates=1",
+      "source": "search"
+    },
+    "Franklin Arias": {
+      "id": 808265,
+      "note": "n_candidates=1",
+      "source": "search"
+    },
+    "Gabe Davis": {
+      "id": 805031,
+      "note": "matched Stats API draft feed (name + team)",
+      "source": "draft"
+    },
+    "Gavin Fien": {
+      "id": 815818,
+      "note": "n_candidates=1",
+      "source": "search"
+    },
+    "Gavin Kilen": {
+      "id": 702264,
+      "note": "n_candidates=1",
+      "source": "search"
+    },
+    "Gavin Turley": {
+      "id": 702504,
+      "note": "n_candidates=1",
+      "source": "search"
+    },
+    "George Lombard Jr.": {
+      "id": 806146,
+      "note": "n_candidates=1",
+      "source": "search"
+    },
+    "Grant Richardson": {
+      "id": 685300,
+      "note": "n_candidates=1",
+      "source": "search"
+    },
+    "Griffin Hugus": {
+      "id": 702976,
+      "note": "matched Stats API draft feed (name + team)",
+      "source": "draft"
+    },
+    "Gustavo Melendez": {
+      "id": 828116,
+      "note": "n_candidates=1",
+      "source": "search"
+    },
+    "Hagen Smith": {
+      "id": 696146,
+      "note": "n_candidates=1",
+      "source": "search"
+    },
+    "Ike Irish": {
+      "id": 702610,
+      "note": "n_candidates=1",
+      "source": "search"
+    },
+    "JB Middleton": {
+      "id": 822477,
+      "note": "matched Stats API draft feed (name + team)",
+      "source": "draft"
+    },
+    "JD Dix": {
+      "id": 807267,
+      "note": "n_candidates=1",
+      "source": "search"
+    },
+    "JJ Wetherholt": {
+      "id": 802139,
+      "note": "n_candidates=1",
+      "source": "search"
+    },
+    "JR Ritchie": {
+      "id": 702275,
+      "note": "n_candidates=1",
+      "source": "search"
+    },
+    "JT Quinn": {
+      "id": 802411,
+      "note": "matched Stats API draft feed (name + team)",
+      "source": "draft"
+    },
+    "Jack Gurevitch": {
+      "id": 813668,
+      "note": "n_candidates=1",
+      "source": "search"
+    },
+    "Jacob Reimer": {
+      "id": 702544,
+      "note": "n_candidates=1",
+      "source": "search"
+    },
+    "Jake Cook": {
+      "id": 834404,
+      "note": "matched Stats API draft feed (name + team)",
+      "source": "draft"
+    },
+    "Jake Munroe": {
+      "id": 827719,
+      "note": "n_candidates=1",
+      "source": "search"
+    },
+    "James Ellwanger": {
+      "id": 806067,
+      "note": "matched Stats API draft feed (name + team)",
+      "source": "draft"
+    },
+    "James Tibbs III": {
+      "id": 696486,
+      "note": "n_candidates=1",
+      "source": "search"
+    },
+    "Jamie Arnold": {
+      "id": 701364,
+      "note": "n_candidates=2",
+      "source": "search"
+    },
+    "Jared Thomas": {
+      "id": 703606,
+      "note": "n_candidates=1",
+      "source": "search"
+    },
+    "Jaxon Wiggins": {
+      "id": 694393,
+      "note": "n_candidates=1",
+      "source": "search"
+    },
+    "Jefferson Rojas": {
+      "id": 800473,
+      "note": "n_candidates=1",
+      "source": "search"
+    },
+    "Jes\u00fas Made": {
+      "id": 815908,
+      "note": "n_candidates=1",
+      "source": "search"
+    },
+    "Jhonny Level": {
+      "id": 815929,
+      "note": "n_candidates=1",
+      "source": "search"
+    },
+    "Johnny Slawinski": {
+      "id": 828989,
+      "note": "matched Stats API draft feed (name + team)",
+      "source": "draft"
+    },
+    "Jonny Farmelo": {
+      "id": 806071,
+      "note": "n_candidates=1",
+      "source": "search"
+    },
+    "Jordan Yost": {
+      "id": 803723,
+      "note": "n_candidates=1",
+      "source": "search"
+    },
+    "Joseph Dzierwa": {
+      "id": 804530,
+      "note": "n_candidates=1",
+      "source": "search"
+    },
+    "Josh Hammond": {
+      "id": 815843,
+      "note": "matched Stats API draft feed (name + team)",
+      "source": "draft"
+    },
+    "Josh Owens": {
+      "id": 831384,
+      "note": "matched Stats API draft feed (name + team)",
+      "source": "draft"
+    },
+    "Joshua Flores": {
+      "id": 834237,
+      "note": "matched Stats API draft feed (name + team)",
+      "source": "draft"
+    },
+    "Joshua Kuroda-Grauer": {
+      "id": 811965,
+      "note": "n_candidates=1",
+      "source": "search"
+    },
+    "Josiah Hartshorn": {
+      "id": 815824,
+      "note": "n_candidates=1",
+      "source": "search"
+    },
+    "Josuar Gonzalez": {
+      "id": 829034,
+      "note": "n_candidates=1",
+      "source": "search"
+    },
+    "Josue Brice\u00f1o": {
+      "id": 800522,
+      "note": "n_candidates=1",
+      "source": "search"
+    },
+    "Josue De Paula": {
+      "id": 800543,
+      "note": "n_candidates=1",
+      "source": "search"
+    },
+    "Joswa Lugo": {
+      "id": 815915,
+      "note": "n_candidates=1",
+      "source": "search"
+    },
+    "Justin Lamkin": {
+      "id": 703610,
+      "note": "matched Stats API draft feed (name + team)",
+      "source": "draft"
+    },
+    "Kade Anderson": {
+      "id": 807739,
+      "note": "n_candidates=1",
+      "source": "search"
+    },
+    "Kaeden Kent": {
+      "id": 809763,
+      "note": "n_candidates=1",
+      "source": "search"
+    },
+    "Kaelen Culpepper": {
+      "id": 701785,
+      "note": "n_candidates=1",
+      "source": "search"
+    },
+    "Kaleb Wing": {
+      "id": 832453,
+      "note": "matched Stats API draft feed (name + team)",
+      "source": "draft"
+    },
+    "Kane Kepley": {
+      "id": 823807,
+      "note": "n_candidates=1",
+      "source": "search"
+    },
+    "Kayson Cunningham": {
+      "id": 815617,
+      "note": "matched Stats API draft feed (name + team)",
+      "source": "draft"
+    },
+    "Kevin McGonigle": {
+      "id": 805808,
+      "note": "n_candidates=1",
+      "source": "search"
+    },
+    "Konnor Griffin": {
+      "id": 804606,
+      "note": "n_candidates=1",
+      "source": "search"
+    },
+    "Korbyn Dickerson": {
+      "id": 702668,
+      "note": "n_candidates=1",
+      "source": "search"
+    },
+    "Kyle Lodise": {
+      "id": 827517,
+      "note": "n_candidates=1",
+      "source": "search"
+    },
+    "Landon Hodge": {
+      "id": 821933,
+      "note": "matched Stats API draft feed (name + team)",
+      "source": "draft"
+    },
+    "Landyn Vidourek": {
+      "id": 811716,
+      "note": "n_candidates=1",
+      "source": "search"
+    },
+    "Leo De Vries": {
+      "id": 815888,
+      "note": "n_candidates=1",
+      "source": "search"
+    },
+    "Lou Brock": {
+      "id": 111495,
+      "note": "n_candidates=1",
+      "source": "search"
+    },
+    "Luis Pe\u00f1a": {
+      "id": 821270,
+      "note": "n_candidates=3",
+      "source": "search"
+    },
+    "Luke Dickerson": {
+      "id": 815380,
+      "note": "n_candidates=1",
+      "source": "search"
+    },
+    "Luke Lacourse": {
+      "id": 834241,
+      "note": "matched Stats API draft feed (name + team)",
+      "source": "draft"
+    },
+    "Malachi Witherspoon": {
+      "id": 802412,
+      "note": "matched Stats API draft feed (name + team)",
+      "source": "draft"
+    },
+    "Malcolm Moore": {
+      "id": 702270,
+      "note": "n_candidates=1",
+      "source": "search"
+    },
+    "Mason McConnaughey": {
+      "id": 822415,
+      "note": "matched Stats API draft feed (name + team)",
+      "source": "draft"
+    },
+    "Mason Morris": {
+      "id": 702568,
+      "note": "matched Stats API draft feed (name + team)",
+      "source": "draft"
+    },
+    "Mason Neville": {
+      "id": 702563,
+      "note": "n_candidates=1",
+      "source": "search"
+    },
+    "Matt Barr": {
+      "id": 832699,
+      "note": "matched Stats API draft feed (name + team)",
+      "source": "draft"
+    },
+    "Matthew Fisher": {
+      "id": 832455,
+      "note": "matched Stats API draft feed (name + team)",
+      "source": "draft"
+    },
+    "Max Belyeu": {
+      "id": 803284,
+      "note": "n_candidates=1",
+      "source": "search"
+    },
+    "Max Clark": {
+      "id": 703601,
+      "note": "n_candidates=1",
+      "source": "search"
+    },
+    "Max Williams": {
+      "id": 703637,
+      "note": "matched Stats API draft feed (name + team)",
+      "source": "draft"
+    },
+    "Michael Lombardi": {
+      "id": 813533,
+      "note": "matched Stats API draft feed (name + team)",
+      "source": "draft"
+    },
+    "Michael Oliveto": {
+      "id": 834672,
+      "note": "n_candidates=1",
+      "source": "search"
+    },
+    "Michael Salina": {
+      "id": 823745,
+      "note": "matched Stats API draft feed (name + team)",
+      "source": "draft"
+    },
+    "Miguel Sime Jr.": {
+      "id": 828137,
+      "note": "matched Stats API draft feed (name + team)",
+      "source": "draft"
+    },
+    "Mitch Voit": {
+      "id": 702491,
+      "note": "n_candidates=1",
+      "source": "search"
+    },
+    "Murf Gray": {
+      "id": 809092,
+      "note": "n_candidates=1",
+      "source": "search"
+    },
+    "Nate George": {
+      "id": 825582,
+      "note": "n_candidates=1",
+      "source": "search"
+    },
+    "Nate Snead": {
+      "id": 805422,
+      "note": "n_candidates=1",
+      "source": "search"
+    },
+    "Nick Becker": {
+      "id": 829306,
+      "note": "matched Stats API draft feed (name + team)",
+      "source": "draft"
+    },
+    "Nolan Sailors": {
+      "id": 823073,
+      "note": "n_candidates=1",
+      "source": "search"
+    },
+    "Nolan Schubart": {
+      "id": 702278,
+      "note": "n_candidates=1",
+      "source": "search"
+    },
+    "Patrick Forbes": {
+      "id": 804467,
+      "note": "matched Stats API draft feed (name + team)",
+      "source": "draft"
+    },
+    "Peter Kussow": {
+      "id": 828097,
+      "note": "matched Stats API draft feed (name + team)",
+      "source": "draft"
+    },
+    "Pico Kohn": {
+      "id": 695560,
+      "note": "n_candidates=1",
+      "source": "search"
+    },
+    "Quentin Young": {
+      "id": 815839,
+      "note": "matched Stats API draft feed (name + team)",
+      "source": "draft"
+    },
+    "Rainiel Rodriguez": {
+      "id": 823787,
+      "note": "n_candidates=1",
+      "source": "search"
+    },
+    "Riley Kelly": {
+      "id": 804465,
+      "note": "matched Stats API draft feed (name + team)",
+      "source": "draft"
+    },
+    "Roc Riggio": {
+      "id": 691792,
+      "note": "n_candidates=1",
+      "source": "search"
+    },
+    "Ryan Mitchell": {
+      "id": 815829,
+      "note": "n_candidates=1",
+      "source": "search"
+    },
+    "Ryan Sloan": {
+      "id": 815549,
+      "note": "n_candidates=1",
+      "source": "search"
+    },
+    "Ryan Waldschmidt": {
+      "id": 814439,
+      "note": "n_candidates=1",
+      "source": "search"
+    },
+    "Ryan Wideman": {
+      "id": 834240,
+      "note": "n_candidates=1",
+      "source": "search"
+    },
+    "Sammy Stafura": {
+      "id": 806230,
+      "note": "n_candidates=1",
+      "source": "search"
+    },
+    "Sean Episcope": {
+      "id": 834243,
+      "note": "matched Stats API draft feed (name + team)",
+      "source": "draft"
+    },
+    "Sean Gamble": {
+      "id": 815819,
+      "note": "matched Stats API draft feed (name + team)",
+      "source": "draft"
+    },
+    "Sean Youngerman": {
+      "id": 823781,
+      "note": "matched Stats API draft feed (name + team)",
+      "source": "draft"
+    },
+    "Sebastian Walcott": {
+      "id": 806964,
+      "note": "n_candidates=1",
+      "source": "search"
+    },
+    "Slade Caldwell": {
+      "id": 815154,
+      "note": "n_candidates=1",
+      "source": "search"
+    },
+    "Steele Hall": {
+      "id": 829162,
+      "note": "n_candidates=1",
+      "source": "search"
+    },
+    "Taitn Gray": {
+      "id": 828685,
+      "note": "n_candidates=1",
+      "source": "search"
+    },
+    "Tanner Franklin": {
+      "id": 815119,
+      "note": "matched Stats API draft feed (name + team)",
+      "source": "draft"
+    },
+    "Tate Southisene": {
+      "id": 816111,
+      "note": "matched Stats API draft feed (name + team)",
+      "source": "draft"
+    },
+    "Thayron Liranzo": {
+      "id": 699073,
+      "note": "n_candidates=1",
+      "source": "search"
+    },
+    "Theo Gillen": {
+      "id": 815394,
+      "note": "n_candidates=1",
+      "source": "search"
+    },
+    "Thomas White": {
+      "id": 806258,
+      "note": "n_candidates=1",
+      "source": "search"
+    },
+    "Tim Piasentin": {
+      "id": 815992,
+      "note": "matched Stats API draft feed (name + team)",
+      "source": "draft"
+    },
+    "Tommy Troy": {
+      "id": 694371,
+      "note": "n_candidates=1",
+      "source": "search"
+    },
+    "Tommy White": {
+      "id": 695720,
+      "note": "n_candidates=1",
+      "source": "search"
+    },
+    "Travis Bazzana": {
+      "id": 683953,
+      "note": "n_candidates=1",
+      "source": "search"
+    },
+    "Trevor Cohen": {
+      "id": 701906,
+      "note": "n_candidates=1",
+      "source": "search"
+    },
+    "Tyler Bremner": {
+      "id": 803285,
+      "note": "n_candidates=1",
+      "source": "search"
+    },
+    "Tyson Lewis": {
+      "id": 815653,
+      "note": "n_candidates=1",
+      "source": "search"
+    },
+    "Walker Janek": {
+      "id": 801075,
+      "note": "n_candidates=1",
+      "source": "search"
+    },
+    "Walker Jenkins": {
+      "id": 805805,
+      "note": "n_candidates=1",
+      "source": "search"
+    },
+    "Yandel Ricardo": {
+      "id": 815902,
+      "note": "n_candidates=1",
+      "source": "search"
+    },
+    "Yohandy Morales": {
+      "id": 691002,
+      "note": "n_candidates=1",
+      "source": "search"
+    },
+    "Zyhir Hope": {
+      "id": 814307,
+      "note": "n_candidates=1",
+      "source": "search"
+    }
+  }
+}

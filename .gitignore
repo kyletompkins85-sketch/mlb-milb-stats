@@ -2,6 +2,8 @@
 data/*
 !data/.gitkeep
 !data/bowman_2025_mlbam_overrides.json
+# Committed so CI (--no-search) resolves the same MLBAM IDs as local runs.
+!data/bowman_mlbam_id_cache.json
 !data/bowman_2025_checklist_with_ids.csv
 !data/bowman_2025_checklist_with_ids_summary.md
 !data/bowman_2025_checklist_missing_ids.csv

@@ -35,6 +35,10 @@ After you enable **GitHub Pages** on the **`gh-pages`** branch (root), files are
 
 Load `meta.json` first; use `generated_at` and `schema_version` to decide whether to refresh. Render leaderboards by iterating each cut’s array **in order** (no sorting).
 
+## CI ID resolution (`--no-search`)
+
+The deploy workflow runs the exporter with **`--no-search`**, so MLBAM IDs come only from **`data/bowman_2025_mlbam_overrides.json`** and **`data/bowman_mlbam_id_cache.json`**. The cache file is **tracked in git** (whitelisted in `.gitignore`) so CI matches local resolution for names you have already resolved (e.g. via search or bulk scripts). After resolving new players locally, commit updates to **`bowman_mlbam_id_cache.json`** (and/or overrides) before expecting them in published JSON.
+
 ## CI checklist path
 
 The default [`default_checklist_path`](../scripts/bowman_report_common.py) expects the normalized CSV next to this repo (`../cardlotlister-oauth/...`). In GitHub Actions, add a **second** `actions/checkout` for that repository into `cardlotlister-oauth/` under the workspace, **or** pass `--checklist` to a CSV committed or downloaded in this repo.
